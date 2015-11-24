@@ -9,18 +9,18 @@ function scro01(){
 		 case 2:
 		 case 3:
 		 case 4:
-		 case 5:
-		 case 6:
-		 case 7:animate01()
+		 case 5:animate01()
 		 break;
+		 case 6:animate01();animate02()
+		 break;
+		 case 7:
 		 case 8:
 		 case 9:
-		 case 10:animate01();animate02()
+		 case 10:
+		 case 11:animate02();animate03()
 		 break;
-		 case 11:
 		 case 12:
-		 case 13:animate02();animate03()
-		 break;
+		 case 13:
 		 default:
 		 break;
 		 }
